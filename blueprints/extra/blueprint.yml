@@ -1,0 +1,6 @@
+manifest_version: 1
+id: extra
+name: "Extra Blueprint"
+description: "Added AFTER install to test that sync doesn't auto-pick it up."
+version: 0.1.0
+config: range-config.yml
