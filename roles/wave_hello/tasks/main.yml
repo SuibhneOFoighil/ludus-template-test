@@ -1,0 +1,4 @@
+---
+- name: Wave hello from the wave_hello role
+  ansible.builtin.debug:
+    msg: "Wave hello from wave_hello!"

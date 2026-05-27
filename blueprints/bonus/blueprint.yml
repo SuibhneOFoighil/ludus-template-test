@@ -1,0 +1,7 @@
+manifest_version: 1
+id: bonus
+name: "Bonus Blueprint"
+description: "Added after the initial install to test sync propagation."
+version: 0.1.0
+config: range-config.yml
+tags: [bonus, sync-test]
